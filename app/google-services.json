@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387998743140",
+    "project_id": "gestionconfeccionmaquila",
+    "storage_bucket": "gestionconfeccionmaquila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387998743140:android:9d9b188c4406927ba6fd71",
+        "android_client_info": {
+          "package_name": "com.example.gestionconfeccionandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387998743140-qsa8ov7b1t727t8utr7qgich01ruj0a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQSZNKWHAoywyd2nPISzvS2ylx06fWHsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387998743140-qsa8ov7b1t727t8utr7qgich01ruj0a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
